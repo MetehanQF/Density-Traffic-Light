@@ -21,4 +21,4 @@ This project develops a traffic light system that operates based on vehicle dens
 5. **Priority Activation:** Based on the comparison result, a 555 timer activates the green light for the road with more traffic.  
 6. **Traffic Light Control:** A sequential circuit using D flip-flops, AND gates, and OR gates handles the light switching process.  
 
-This setup ensures that the road with higher traffic density receives priority, minimizing delays and improving traffic management..
+This setup ensures that the road with higher traffic density receives priority, minimizing delays and improving traffic management.
